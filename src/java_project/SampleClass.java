@@ -9,6 +9,8 @@ public class SampleClass {
 		System.out.println("*************************************");	
 		System.out.println("first change");
 		System.out.println("*************************************");	
+		System.out.println("second change");
+		System.out.println("*************************************");	
 		
 	}
 }
