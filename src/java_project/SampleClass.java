@@ -7,5 +7,8 @@ public class SampleClass {
 		System.out.println("*************************************");
 		System.out.println("Sample java class for github & jenkin test");
 		System.out.println("*************************************");	
+		System.out.println("first change");
+		System.out.println("*************************************");	
+		
 	}
 }
